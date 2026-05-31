@@ -9,4 +9,4 @@ Othman TAHER | Formation Data Analyst | OpenClassrooms
 - [Dashboard Veille](https://public.tableau.com/app/profile/othman.taher/viz/13_1veillemtierettechnologique/Veillemtierettechnologique)
 - [Dashboard Profil](https://public.tableau.com/app/profile/othman.taher/viz/13_1_17790074390150/TableaudebordProfilDataAnalyst)
 - [Diagramme de Gantt](https://public.tableau.com/app/profile/othman.taher/viz/13_1DiagrammedeGantt/PlanningduprojetportfolioP13Aroworld)
-- [Vidéo de formation]([https://www.youtube.com/watch?v=SrNeCrh1NW8](https://www.youtube.com/watch?v=SrNeCrh1NW8))
+- [Vidéo de formation](https://www.youtube.com/watch?v=SrNeCrh1NW8)
